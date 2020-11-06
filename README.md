@@ -33,8 +33,7 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-You can see in the link that will be generated soon, as I am a beginner, I am still studying both programming languages, hypertext (html) and git / github.
-I know there is a way to host and leave the site online through guthub, I will provide that.
+https://clowdcap.github.io/404-Not-Found/
 
 - What was your experience?
 My experience executing this challenge, which is simple, but it is complex for me at first, but I managed to develop in a calm way, I had to do a lot of research to execute, where this was of excellent aggregation
