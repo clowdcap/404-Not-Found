@@ -86,3 +86,17 @@ footer {
     
 }
 
+.btn:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
+.content-img:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+
+.nav:hover {
+    transform: scale(1.05);
+    transition: 0.5s;
+}
